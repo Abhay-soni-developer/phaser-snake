@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: phaser-snake
+  annotations:
+    github.com/project-slug: Abhay-soni-developer/phaser-snake
+spec:
+  type: other
+  lifecycle: unknown
+  owner: team-naruto
